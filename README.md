@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for opportunities in **Data science and android development**
 
-- 📝 I regularly write articles on [Medium](https://ankushkunwar7777.medium.com/)
+- 📝 I write articles on [Medium](https://ankushkunwar7777.medium.com/)
 
 - 💬 Ask me about **Data science,Machine learning,Development**
 
