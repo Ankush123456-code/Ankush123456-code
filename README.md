@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ankush kunwar</h1>
 <h3 align="center">Data science and machine learning Enthusiast | android development</h3>
 
-- 🔭 I’m currently working on [Movie reccomendation system end to end](https://github.com/Ankush123456-code/Movies_Reccomender_system)
+- 🔭 I’m currently working on [Gold price prediction](https://github.com/Ankush123456-code/Gold_price_prediction)
 
-- 🌱 I’m currently learning **Computer vision**
+- 🌱 I’m currently learning **VueJS**
 
 - 👯 I’m looking to collaborate on **End to end project in data science**
 
-- 🤝 I’m looking for opportunities in **Data science and android development**
+- 🤝 I’m looking for opportunities in **Data science ,android development and web development**
 
 - 📝 I write articles on [Medium](https://ankushkunwar7777.medium.com/)
 
-- 💬 Ask me about **Data science,Machine learning,Development**
+- 💬 Ask me about **Data science,Machine learning and Development**
 
 - 📫 How to reach me **ankushkumar1840@gmail.com**
 
