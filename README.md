@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Gold price prediction](https://github.com/Ankush123456-code/Gold_price_prediction)
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **NLP**
 
 - 👯 I’m looking to collaborate on **End to end project in data science**
 
