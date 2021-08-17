@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankush kunwar</h1>
 <h3 align="center">Data science and machine learning Enthusiast | android development</h3>
 
-- 🔭 I’m currently working on [Gold price prediction](https://github.com/Ankush123456-code/Gold_price_prediction)
+- 🔭 I’m currently working on [Named entity recogonition](https://github.com/Ankush123456-code/Gold_price_prediction)
 
 - 🌱 I’m currently learning **NLP**
 
