@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ankush kunwar</h1>
-<h3 align="center">Data science and machine learning Enthusiast | android development</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Named entity recogonition](https://github.com/Ankush123456-code/Custom_NER)
 
-- 🌱 I’m currently learning **NLP**
-
-- 👯 I’m looking to collaborate on **End to end project in data science**
-
-- 🤝 I’m looking for opportunities in **Data science ,android development and web development**
+- 🤝 I’m looking for opportunities in ** Software Development , Data science**
 
 - 📝 I write articles on [Medium](https://ankushkunwar7777.medium.com/)
 
-- 💬 Ask me about **Data science,Machine learning and Development**
+- 💬 Ask me about **Python ,Data structure, Flask, SQL, Java and Data science**
 
-- 📫 How to reach me **ankushkumar1840@gmail.com**
+- 📫 How to reach me **ankushkumar1840@gmail.com or anishbabu1840@gmail.com**
 
 - 📄 Know about my experiences
 
