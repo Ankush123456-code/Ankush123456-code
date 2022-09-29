@@ -6,7 +6,7 @@
 
 - 📝 I write articles on [Medium](https://ankushkunwar7777.medium.com/)
 
-- 💬 Ask me about **Python ,Data structure, Flask, SQL, Java and Data science**
+- 💬 Ask me about **Python, Java, Data structure, Flask, SQL, and Data science**
 
 - 📫 How to reach me **ankushkumar1840@gmail.com or anishbabu1840@gmail.com**
 
