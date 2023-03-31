@@ -2,11 +2,11 @@
 <h3 align="center">Software Engineer</h3>
 
 
-- 🤝 I’m looking for opportunities in ** Software Development , Data science**
+- 🤝 I’m looking for opportunities in ** Software Engineer**
 
 - 📝 I write articles on [Medium](https://ankushkunwar7777.medium.com/)
 
-- 💬 Ask me about **Python, Java, Data structure, Flask, SQL, and Data science**
+- 💬 Ask me about **Python, Java, Data structure, OOPs, Flask, SQL, MongoDB, Api development, microservices, System Design(learning in progress)**
 
 - 📫 How to reach me **ankushkumar1840@gmail.com or anishbabu1840@gmail.com**
 
