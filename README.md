@@ -6,7 +6,7 @@
 
 - 📝 I write articles on [Medium](https://ankushkunwar7777.medium.com/)
 
-- 💬 Ask me about **Python, Java, Data structure, OOPs, Flask, SQL, MongoDB, Api development, microservices, System Design(learning in progress)**
+- 💬 Ask me about **Microservices, Software Engineering, Python Developement, Java, Kubernetes, Docker, Linux, Data structure, OOPs, Flask, SQL, MongoDB, Api development, System Design(learning in progress)**
 
 - 📫 How to reach me **ankushkumar1840@gmail.com or anishbabu1840@gmail.com**
 
